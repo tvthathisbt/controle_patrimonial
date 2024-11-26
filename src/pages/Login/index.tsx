@@ -17,7 +17,7 @@ export const Login = () => {
   }
 
   const handleLogin = () => {
-    if(email === 'usuario@usuario.com' && password === '123') {
+    if(email === 'luciano.brito@tvthathisbt.com.br' && password === 'Luc@2024') {
       setUserEmail(email);
       localStorage.setItem('user', JSON.stringify(email));
       toast.success("Login efetuado com sucesso!")
