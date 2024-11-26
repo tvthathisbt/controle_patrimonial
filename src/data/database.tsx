@@ -79,19 +79,39 @@ export const ItemsDatabase: ItemDatabaseType[] = [
 // CATEGORIES
 export const CategoriesDatabase: CategoriesType[] = [
   {
-    title: 'Notebook',
+    title: 'Master',
     color: '#b0d66f'
   },
   {
-    title: 'Desktop',
+    title: 'Central Tecnica',
     color: '#db8ad3'
   },
   {
-    title: 'Impressora',
+    title: 'Switcher',
     color: '#a2dcef',
   },
   {
-    title: 'Outros',
+    title: 'Studio',
+    color: '#d8ab7d',
+  },
+  {
+    title: 'TI',
+    color: '#d8ab7d',
+  },
+  {
+    title: 'Tales',
+    color: '#d8ab7d',
+  },
+  {
+    title: 'Kal',
+    color: '#d8ab7d',
+  },
+  {
+    title: 'Mineiro',
+    color: '#d8ab7d',
+  },
+  {
+    title: 'Postos Retransmissores',
     color: '#d8ab7d',
   }
 ];
