@@ -58,7 +58,7 @@ export const RegisterProduct = () => {
             <C.Label htmlFor="quantity" className="form-label">Quantidade</C.Label>
           </C.InputArea>
           <C.InputArea>
-            <C.Label htmlFor="category" className="form-label">Categoria do equipamento</C.Label>
+            <C.Label htmlFor="category" className="form-label">Setores</C.Label>
             <select className="form-select" name='category' size={6} aria-label="size 3 select example" onChange={handleChangeInput} >
               {CategoriesDatabase.map((category) => (
                 <option key={category.title} value={category.title}>{ category.title }</option>
