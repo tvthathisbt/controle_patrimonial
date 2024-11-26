@@ -92,26 +92,26 @@ export const CategoriesDatabase: CategoriesType[] = [
   },
   {
     title: 'Studio',
-    color: '#d8ab7d',
+    color: '#b0d66f',
   },
   {
     title: 'TI',
-    color: '#d8ab7d',
+    color: '#db8ad3',
   },
   {
     title: 'Tales',
-    color: '#d8ab7d',
+    color: '#a2dcef',
   },
   {
     title: 'Kal',
-    color: '#d8ab7d',
+    color: '#b0d66f',
   },
   {
     title: 'Mineiro',
-    color: '#d8ab7d',
+    color: '#db8ad3',
   },
   {
     title: 'Postos Retransmissores',
-    color: '#d8ab7d',
+    color: '#a2dcef',
   }
 ];
